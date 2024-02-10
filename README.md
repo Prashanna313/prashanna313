@@ -5,6 +5,7 @@
 - 🔭 I'm a DevOps Professional with over four years of experience in AWS, DevOps, Docker, Kubernetes, and Terraform. I'm skilled in all aspects of automation, from provisioning servers to creating orchestration workflows.
 
 - I've worked on various tools such as `AWS, Gitlab CI, Jenkins, Kubernetes, Docker, Python3, Postgres, Sumologic, Sonarqube, [Terraform](https://www.credly.com/badges/eabd631b-ed52-4cb0-98ff-369e174af066)` & much more.!
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d0cb770-214a-458f-86ba-f3c53faa98e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 -  You can view some of my projects at [Github](https://github.com/Prashanna313?tab=repositories)
 
