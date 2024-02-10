@@ -1,6 +1,5 @@
 
 ## Hi there 👋
-<img align="middle" src="docs/prashanna.jpg"  width="150" height="150">
 
 - 🔭 I'm a DevOps Professional with over four years of experience in AWS, DevOps, Docker, Kubernetes, and Terraform. I'm skilled in all aspects of automation, from provisioning servers to creating orchestration workflows.
 
