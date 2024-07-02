@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- 🔭 I'm a DevOps Professional with over four years of experience in AWS, DevOps, Docker, Kubernetes, and Terraform. I'm skilled in all aspects of automation, from provisioning servers to creating orchestration workflows.
+- 🔭 I'm a DevOps Professional with over six years of experience in AWS, DevOps, Docker, Kubernetes, and Terraform. I'm skilled in all aspects of automation, from provisioning servers to creating orchestration workflows.
 
 - I've worked on various tools such as `AWS, Gitlab CI, Jenkins, Kubernetes, Docker, Python3, Postgres, Sumologic, Sonarqube, Terraform` & much more.! To know more visit my [portfolio](https://prashanna.info/)
 
